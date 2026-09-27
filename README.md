@@ -319,11 +319,11 @@ Closest Pair performed **6,444 distance checks** for random `n = 5,000`.
 
 #### Time vs. n
 
-![Time vs n](docs/plots/time-vs-n.png)
+![Time vs n](docs/screenshots/time-vs-n.png)
 
 #### Recursion Depth vs. n
 
-![Recursion Depth vs n](docs/plots/recursion-depth-vs-n.png)
+![Recursion Depth vs n](docs/screenshots/recursion-depth-vs-n.png)
 
 ---
 
